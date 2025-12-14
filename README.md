@@ -1,2 +1,2 @@
-# web-simulator.github.io
+# WebSimApp.github.io
 Web Simulator App
